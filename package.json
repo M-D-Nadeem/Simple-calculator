@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+    
+  },
+  "name": "calculation",
+  "version": "1.0.0",
+  "main": "cal.js",
+  "type": "module",
+  "directories": {
+    "test": "mocha test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
